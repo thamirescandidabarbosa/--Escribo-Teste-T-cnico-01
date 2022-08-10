@@ -22,4 +22,3 @@ Função sumAll desenvolvida em PHP, Javascript e Dart.
 > Inicie o .js: node javascript/index.js
 
 
-E
